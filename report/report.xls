@@ -1,0 +1,24 @@
+
+------------------------------------
+PID: 51362 (capability: chrome #1)
+------------------------------------
+
+Using the selenium server at http://localhost:4444/wd/hub
+
+Search Stats for flipkart.com on Fri May 30 2014 12:14:23 GMT+0530 (IST)
+
+flipkart.com Appers at position = 2 for keyWord 'Buy Shoes'
+
+flipkart.com Appers at position = 2 for keyWord 'Buy games'
+
+flipkart.com Appers at position = 1 for keyWord 'Buy Mobile'
+
+flipkart.com Appers at position = 5 for keyWord 'buy accesories'
+
+
+SEO Report
+[32m    Should List report on Buy Shoes,Buy games,Buy Mobile,buy accesories[0m
+
+Finished in 25.617 seconds
+[32m1 test, 0 assertions, 0 failures
+[0m
